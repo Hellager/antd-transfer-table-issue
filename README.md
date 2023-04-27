@@ -1,1 +1,2 @@
-# antd-transfer-table-issue
+# pro-table-issue-template
+repo for antd pro components issue 
